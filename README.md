@@ -6,8 +6,7 @@ This project is a comprehensive **Bike Sales Dashboard** built entirely in **Mic
 
 ## 📊 Dashboard Overview
 
-C:\Users\Arpita Thakur\Pictures\Screenshots\Screenshot (42).png <!-- Replace with your actual image file name -->
-
+<img width="1321" height="681" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/5c8b832b-3e3c-4645-b1da-9c85ad7df00d" />
 ---
 
 ## 🛠 Tools Used
