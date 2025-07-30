@@ -6,7 +6,7 @@ This project is a comprehensive **Bike Sales Dashboard** built entirely in **Mic
 
 ## 📊 Dashboard Overview
 
-"C:\Users\Arpita Thakur\Pictures\Screenshots\Screenshot (42).png" <!-- Replace with your actual image file name -->
+C:\Users\Arpita Thakur\Pictures\Screenshots\Screenshot (42).png <!-- Replace with your actual image file name -->
 
 ---
 
@@ -35,7 +35,7 @@ This project is a comprehensive **Bike Sales Dashboard** built entirely in **Mic
 
 ## 📌 How to Use
 
-1. Open the Excel file: `"C:\Users\Arpita Thakur\Desktop\excel_project\Bike sales data.xlsx"`
+1. Open the Excel file: C:\Users\Arpita Thakur\Desktop\excel_project\Bike sales data.xlsx
 2. Use the slicers to explore data by filters
 3. View summary insights from charts and KPIs
 
